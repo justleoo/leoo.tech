@@ -1,4 +1,4 @@
-# learningvuejs
+# 🛠 › Learning Vue.js
 
 ## Project setup
 ```
@@ -20,5 +20,5 @@ yarn build
 yarn lint
 ```
 
-### Customize configuration
+### 📚 › Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
