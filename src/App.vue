@@ -4,7 +4,7 @@
 
 <script>
 import MainComponent from './components/MainComponent.vue'
-
+document.title = 'just leo' 
 export default {
   name: 'App',
   components: {
