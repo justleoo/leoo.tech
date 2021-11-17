@@ -2,7 +2,7 @@
 <title>just leo</title>
         <div id="center">
             <br>
-            <div id="avatar" style="background-image: url('https://i.imgur.com/8UhhUAL.jpg')">
+            <div id="avatar" style="background-image: url('https://cdn.discordapp.com/attachments/910257275120271390/910633584820375562/dae2a7831cc58f448310be1898f4c1b6.jpg')">
             </div></div>
             <br>
     <h1>hi, I'm Leo, I develop things and play</h1>
