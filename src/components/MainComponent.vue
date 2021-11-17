@@ -9,5 +9,5 @@
 
     <center><a class="githubRedirect" href="https://github.com/leoo027"><i class="fa fa-github" style="font-size:50px;color:#FFF"></i><br>@leoo027</a></center>
   <img src="https://cdn-icons-png.flaticon.com/512/733/733609.png" width="30"/>
-  <center><a class="portfolio" href="https://leooo-portfolio.vercel.app/"><i class="fa fa-github" style="font-size:50px;color:#FFF"></i><br>portfolio</a></center>
+  <center><a class="portfolio" href="https://leooo-portfolio.vercel.app/"><i class="fa fa-github" style="font-size:50px;color:#FFF"></i>portfolio</a></center>
 </template>
