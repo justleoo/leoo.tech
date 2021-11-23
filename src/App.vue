@@ -3,7 +3,7 @@
 </template>
 
 <script>
-import MainComponent from './components/Home.vue'
+import Home from './components/Home.vue'
 document.title = 'just leo' 
 export default {
   name: 'App',
