@@ -6,6 +6,27 @@
     color: white;
     margin-top: 60px;
   }
+#button {
+    border: 2px solid #fff;
+    text-align: center;
+    padding: 15px;
+    margin-top: 20px;
+    border-radius: 15px;
+    background-color: none;
+    color: #fff;
+    transition: 0.3s background, 0.3s color;
+    width: 200px;
+    text-align: center;
+    left: 50%;
+    transform: translate(-50%, 0);
+    position: relative;
+}
+
+#button:hover {
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: #fff;
+}
     #avatar {
       width: 200px;
       height: 200px;
