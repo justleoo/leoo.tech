@@ -10,3 +10,7 @@
     <div id="button" style="cursor:pointer" onclick="github()">github</div>
     <div id="button" style="cursor:pointer" onclick="portfolio()">portfolio</div>
 </template>
+<script>
+const github = () => window.location.href = "https://github.com/leoo027"
+const portfolio = () => window.location.href = "https://leooo-portfolio.vercel.app"
+</script>
