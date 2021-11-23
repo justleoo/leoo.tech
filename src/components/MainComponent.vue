@@ -7,10 +7,14 @@
             <br>
     <h1>hi, I'm Leo, I develop things and play</h1>
 
-    <div id="button" style="cursor:pointer" onclick="github()">github</div>
-    <div id="button" style="cursor:pointer" onclick="portfolio()">portfolio</div>
+    <div id="button" style="cursor:pointer" @click="github">github</div>
+    <div id="button" style="cursor:pointer" @click="portfolio">portfolio</div>
 </template>
 <script>
-const github = () => window.location.href = "https://github.com/leoo027"
-const portfolio = () => window.location.href = "https://leooo-portfolio.vercel.app"
+export default {
+    methods: {
+        github: () => window.location.href = "https://github.com/leoo027",
+        portfolio: () => window.location.href = "https://leooo-portfolio.vercel.app",
+    },
+};
 </script>
