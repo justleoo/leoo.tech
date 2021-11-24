@@ -20,6 +20,8 @@
     left: 50%;
     transform: translate(-50%, 0);
     position: relative;
+    display: block;
+    text-decoration: none;
 }
 
 #button:hover {
@@ -27,6 +29,11 @@
     background-repeat: no-repeat;
     color: #fff;
 }
+
+#button:visited {
+    color: #fff;
+}
+
     #avatar {
       width: 200px;
       height: 200px;
@@ -46,6 +53,7 @@
     font-family: Courier New, monospace;
     text-align: center;
   }
+
 
 .portfolio {
     color: white;
