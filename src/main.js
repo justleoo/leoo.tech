@@ -2,6 +2,7 @@ import Vue from 'vue'
 import App from './App.vue'
 import VueRouter from 'vue-router'
 import Portfolio from './components/Portfolio.vue'
+import Home from './components/Home.vue'
 import './assets/css/App.css'
 
 Vue.use(VueRouter)
@@ -11,6 +12,10 @@ const router = new VueRouter({
         {
             path: '/portfolio',
             components: Portfolio
+        },
+        {
+            path: '/',
+            components: Home
         }
     ]
 })
