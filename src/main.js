@@ -1,24 +1,21 @@
-import Vue from 'vue'
+import * as Vue from 'vue'
+import { createRouter, createWebHistory } from 'vue-router'
 import App from './App.vue'
-import VueRouter from 'vue-router'
-import Portfolio from './components/Portfolio.vue'
 import Home from './components/Home.vue'
 import './assets/css/App.css'
 
-Vue.use(VueRouter)
-// router
-const router = new VueRouter({
-    routes: [
-        {
-            path: '/portfolio',
-            component: Portfolio
-        },
-        {
-            path: '/',
-            component: Home
-        }
-    ]
+const router = createRouter({
+  history: createWebHistory(process.env.BASE_URL),
+  routes: [
+    {
+      path: '/',
+      component: Home
+    },
+    {
+      path: '/portfolio',
+      component: () => import(/* webpackChunkName: "portfolio" */ './components/Portfolio.vue')
+    },
+  ]
 })
-new Vue({
-    router, render: h => h(App),
-}).$mount('#app')
+
+Vue.createApp(App).use(router).mount('#app')
