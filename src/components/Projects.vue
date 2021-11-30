@@ -5,7 +5,6 @@
             </div>
             <div id="desc_container">
             </div>
-                <br></br>
                 <div id="name">
                     torixApi
                 </div>
