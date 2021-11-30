@@ -15,6 +15,10 @@ const router = createRouter({
       path: '/portfolio',
       component: () => import(/* webpackChunkName: "portfolio" */ './components/Portfolio.vue')
     },
+    {
+      path: '/projects',
+      component: () => import('./components/Projects.vue')
+    },
   ]
 })
 
