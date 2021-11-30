@@ -13,6 +13,7 @@
                     just a simple api focused on images, ex: animals, wallpapers, and more.
                   </div>
               </div>
+              <br>
               <div id="p">
             <div id="avatar" style="background-image: url('https://media.discordapp.net/attachments/910257275120271390/910633584602251315/5f04884d11d7342b7ab2dd6a0896e7d5.jpg?width=271&height=270')">
             </div>
