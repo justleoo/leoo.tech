@@ -12,6 +12,7 @@
                 </div>
                 <div id="description">
                     just a simple api focused on images, ex: animals, wallpapers, and more.
-                </div>
-            </div>
+                  </div>
+              </div>
+           </div>
 </template>
