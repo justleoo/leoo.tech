@@ -1,10 +1,12 @@
 <template>
   <h1>projects</h1>
          <div id="p">
-            <div id="avatar" style="background-image: url('https://cdn.discordapp.com/attachments/893270199304880229/915360340559151154/514c6cc2bb8ab32548a409f04648d195.png')">
+            <div id="avatar" style="background-image: url('https://media.discordapp.net/attachments/908838622944436265/915313377629306880/364d9329ac62826ad709af9c2e9b9be4.jpg?width=480&height=480')">
             </div>
+            <br>
             <div id="desc_container">
             </div>
+            </br>
                 <div id="name">
                     torixApi
                 </div>
