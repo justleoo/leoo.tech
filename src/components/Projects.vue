@@ -27,5 +27,5 @@
                     http otters is a simple but cool project. developed by young Brazilians, who love programming, based on http.cat
                   </div>
               </div>
-              <a href="https://github.com/leoo027?tab=repositories" id="button" style="cursor:pointer">more projects</a>
+              <a href="https://github.com/inex1stent?tab=repositories" id="button" style="cursor:pointer">more projects</a>
 </template>
