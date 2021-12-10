@@ -1,4 +1,4 @@
-# 🛠 › Learning Vue.js
+# www.leoo.tech
 
 ## Project setup
 ```
@@ -20,7 +20,10 @@ yarn build
 yarn lint
 ```
 
-## 🔩 › And open http://localhost:8080/.
+## and open http://localhost:8080/.
 
-### 📚 › Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### customize configuration
+see [configuration reference](https://cli.vuejs.org/config/).
+
+# license
+## refer to [license](https://github.com/inex1stent/www.leoo.tech/blob/main/LICENSE) file
