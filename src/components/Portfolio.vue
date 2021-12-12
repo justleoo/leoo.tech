@@ -10,5 +10,5 @@
   <h2>how did i get started on programming? I found something interesting, and I became more and more interested, with projects, and other things...</h2>
   <h2>what do i like to do in my free time? well, i really like playing minecraft and other games, i love listening to music, mainly brazilian (i'm brazilian lol)</h2>
   <h1>pronouns and and sexual orientation</h1>
-  <h2>yee, my pronouns are he/him, and the sexual orientation is <strong>bisexual</strong></h2>
+  <h2>any pronouns, and the sexual orientation is <strong>bisexual</strong></h2>
 </template>
