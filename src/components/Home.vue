@@ -8,7 +8,7 @@
     <br>
     <h1>hi, I'm Leo, I develop things and play</h1>
 
-    <a href="https://github.com/inex1stent" id="button" style="cursor:pointer">github</a>
+    <a href="https://github.com/justleoo" id="button" style="cursor:pointer">github</a>
     <router-link to="/portfolio" id="button" style="cursor:pointer">portfolio</router-link>
     <router-link to="/projects" id="button" style="cursor:pointer">projects</router-link>
 </template>
