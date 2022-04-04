@@ -1,14 +1,20 @@
 <template>
 <title>just leo</title>
     <div id="center">
-        <br>
-        <div id="avatar" style="background-image: url('https://cdn.discordapp.com/attachments/910257275120271390/910633584820375562/dae2a7831cc58f448310be1898f4c1b6.jpg')">
+  <br>
+        <div id="avatar" style="background-image: url('https://github.com/justleoo.png') ">
         </div>
     </div>
     <br>
-    <h1>hi, I'm Leo, I develop things and play</h1>
+    <div style="display: flex; align: center; justify-content: center;">
+      <h1 class="texthead">hello, i'm leo!</h1>
+    </div>
 
     <a href="https://github.com/justleoo" id="button" style="cursor:pointer">github</a>
-    <router-link to="/portfolio" id="button" style="cursor:pointer">portfolio</router-link>
+    <router-link to="/about" id="button" style="cursor:pointer">about</router-link>
     <router-link to="/projects" id="button" style="cursor:pointer">projects</router-link>
 </template>
+
+<script>
+document.title = '~/'
+</script>
