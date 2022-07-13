@@ -1,15 +1,29 @@
 <template>
-  <router-view/>
+	<router-view></router-view>
 </template>
 
 <script>
-export default {
-  name: 'App',
-}
+document.title = 'justleoo'
 </script>
 
 <style>
+#app {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-align: center;
+  color: #2c3e50;
+}
+
+:root {
+	--bg: #0b0d10;
+	--fg: #d2daf4;
+}
+
+* {
+	font-family: Iosevka Nerd Font
+}
+
 body {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('assets/wall.jpg');
-  }
+	background-color: var(--bg);
+}
 </style>

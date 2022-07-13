@@ -1,0 +1,15 @@
+:root {
+	bg: #0b0d10;
+	fg: #d2daf4;
+}
+
+.title {
+	color: var(--fg);
+	font-size:  2rem;
+}
+
+.about {
+	color: var(--fg);
+	font-size: 1.8rem;
+	text-align: center;
+}

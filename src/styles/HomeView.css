@@ -1,0 +1,33 @@
+:root {
+	--bg: #0b0d10;
+	--fg: #d2daf4;
+}
+
+.name {
+	font-size: 5rem;
+	border-radius: 0px 0px 5px 5px;
+	color: var(--fg);
+}
+
+.feather {
+    color: var(--foreground);
+    float: left;
+    margin: 1rem;
+}
+
+.icons {
+    margin-top: -6rem;
+    display: flex;
+    justify-content: center;
+}
+.icons > a {
+    text-align: center;
+    text-decoration: none;
+    font-size: 4rem;
+}
+a {
+    color: var(--fg);
+    display: block;
+    letter-spacing: 2px;
+    transition: 0.9s;
+}

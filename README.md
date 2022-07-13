@@ -1,29 +1,24 @@
-# www.leoo.tech
+# leoo.tech
 
 ## Project setup
 ```
-yarn install
+npm install
 ```
 
 ### Compiles and hot-reloads for development
 ```
-yarn serve
+npm run serve
 ```
 
 ### Compiles and minifies for production
 ```
-yarn build
+npm run build
 ```
 
 ### Lints and fixes files
 ```
-yarn lint
+npm run lint
 ```
 
-## and open http://localhost:8080/.
-
-### customize configuration
-see [configuration reference](https://cli.vuejs.org/config/).
-
-# license
-## refer to [license](https://github.com/inex1stent/www.leoo.tech/blob/main/LICENSE) file
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
