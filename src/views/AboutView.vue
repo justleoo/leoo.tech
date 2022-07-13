@@ -1,4 +1,5 @@
 <template>
+	<br><br>
 	<div class="title">
 		<h1>about</h1>
 	</div>
