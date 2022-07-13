@@ -16,9 +16,8 @@
 	</div>
 </template>
 
-<script>
-import '../styles/HomeView.css'
-export default {
-  name: 'HomeView'
-}
+<script lang="ts">
+import '../styles/HomeView.css';
+import { Vue } from 'vue-class-component';
+export default class HomeView extends Vue { }
 </script>

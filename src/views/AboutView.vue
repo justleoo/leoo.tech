@@ -8,9 +8,8 @@
 	</div>
 </template>
 
-<script>
-import '../styles/AboutView.css'
-export default {
-	name: 'AboutView'
-}
+<script lang='ts'>
+import { Vue } from 'vue-class-component';
+import '../styles/AboutView.css';
+export default class HomeView extends Vue { }
 </script>
