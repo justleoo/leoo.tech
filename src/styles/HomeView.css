@@ -7,6 +7,7 @@
 	font-size: 5rem;
 	border-radius: 0px 0px 5px 5px;
 	color: var(--fg);
+	font-family: 'Open Sans', sans-serif;
 }
 
 .feather {

@@ -19,9 +19,7 @@
 	--bg: #0b0d10;
 	--fg: #d2daf4;
 }
-* {
-	font-family: Sans Serif; 
-}
+
 body {
 	background-color: var(--bg);
 }
