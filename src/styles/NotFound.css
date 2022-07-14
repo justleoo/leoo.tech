@@ -1,0 +1,13 @@
+:root {
+	--fg: #d2daf4;
+	--red: #c44949;
+}
+
+.text {
+	color: var(--fg);
+	font-size: 4rem;
+}
+
+.back {
+	font-size: 3rem;	
+}
