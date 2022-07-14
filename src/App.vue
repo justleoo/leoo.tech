@@ -20,7 +20,7 @@
 	--fg: #d2daf4;
 }
 * {
-	font-family: Iosevka Nerd Font
+	font-family: Sans Serif; 
 }
 body {
 	background-color: var(--bg);
